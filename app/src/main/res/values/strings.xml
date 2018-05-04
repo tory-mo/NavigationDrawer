@@ -2,4 +2,24 @@
     <string name="app_name">NavigationDrawer</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+    <string name="profile">Профиль</string>
+    <string name="not_change">Не изменять</string>
+    <string name="basic">Базовый</string>
+    <string name="driver">Автомобилист</string>
+    <string name="country">Дачник</string>
+    <string name="fisher">Рыбак</string>
+    <string name="tourist">Турист</string>
+    <string name="ecologist">Эколог</string>
+    <string name="other">Другое</string>
+    <string name="settings">Настройки</string>
+    <string name="warning">Штормовые предупреждения</string>
+
+    <string name="profile_base">base</string>
+    <string name="profile_auto">auto</string>
+    <string name="profile_dach">dach</string>
+    <string name="profile_fisherman">fisherman</string>
+    <string name="profile_tourist">tourist</string>
+    <string name="profile_ecologyst">ecologyst</string>
+    <string name="profile_hydro_all">hydro_all</string>
 </resources>

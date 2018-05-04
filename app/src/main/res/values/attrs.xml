@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NavigationMenuItem">
+        <attr name="navItemText" format="string" />
+        <attr name="navItemIcon" format="reference" />
+        <attr name="navItemIconTint" format="color" />
+        <attr name="navCheckedItemTextColor" format="color" />
+        <attr name="navItemCheckable" format="boolean" />
+        <attr name="navItemPressedColor" format="color" />
+    </declare-styleable>
+</resources>
