@@ -1,4 +1,4 @@
-package by.torymo.navigationdrawer;
+package by.torymo.navigationmenuitem;
 
 import android.annotation.TargetApi;
 import android.content.Context;

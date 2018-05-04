@@ -14,7 +14,7 @@
         android:gravity="center_vertical"
         style="@style/NavigationMenuSubheaderStyle"
         android:paddingRight="@dimen/nav_margin"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_basic"
@@ -23,7 +23,7 @@
         app:navItemIconTint="@color/colorPrimary"
         app:navItemCheckable="true"
         app:navCheckedItemTextColor="@color/colorPrimary"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_driver"
@@ -32,7 +32,7 @@
         app:navItemIconTint="@color/colorPrimary"
         app:navItemCheckable="true"
         app:navCheckedItemTextColor="@color/colorPrimary"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_country"
@@ -41,7 +41,7 @@
         app:navItemIconTint="@color/colorPrimary"
         app:navItemCheckable="true"
         app:navCheckedItemTextColor="@color/colorPrimary"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_fisher"
@@ -50,7 +50,7 @@
         app:navItemIconTint="@color/colorPrimary"
         app:navItemCheckable="true"
         app:navCheckedItemTextColor="@color/colorPrimary"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_tourist"
@@ -59,7 +59,7 @@
         app:navItemIconTint="@color/colorPrimary"
         app:navItemCheckable="true"
         app:navCheckedItemTextColor="@color/colorPrimary"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_ecologist"
@@ -80,14 +80,14 @@
         android:text="@string/other"
         android:gravity="center_vertical"
         style="@style/NavigationMenuSubheaderStyle"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_settings"
         app:navItemText="@string/settings"
         app:navItemIcon="@drawable/ic_settings"
         app:navItemIconTint="@color/colorPrimary"/>
-    <by.torymo.navigationdrawer.NavigationMenuItem
+    <by.torymo.navigationmenuitem.NavigationMenuItem
         android:layout_width="match_parent"
         android:layout_height="@dimen/nav_line_height"
         android:id="@+id/nav_warning"

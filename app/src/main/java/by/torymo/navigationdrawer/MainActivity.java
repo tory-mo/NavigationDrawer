@@ -11,6 +11,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Toast;
 
+import by.torymo.navigationmenuitem.NavigationMenuItem;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
